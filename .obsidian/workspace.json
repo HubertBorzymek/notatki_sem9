@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "f1f90f583333e4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "213e5598e2fe99eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f84ade6ed92a7ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISYN/Wyk/Wyk_1_wstep/notatka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notatka"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "681c1b87c66b221b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38e2bfc3cb36d5c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c5a4a587e1b066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4adb74e6df6c2077",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39feea66477006f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e5bd488037c6a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd02cb1a0dd9c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8db5dbe6c16fac24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WZTO/Wyk/wyk_1_teoria_grafow/Notatki_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notatki_1"
+            }
+          },
+          {
+            "id": "f08120cc89d3d037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WZTO/Wyk/wyk_1_teoria_grafow/Notatki_1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notatki_1"
+            }
+          },
+          {
+            "id": "2a87e0b211cf18c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30480c027adf9395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WZTO/Wyk/wyk_1_teoria_grafow/Notatki_1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notatki_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1f84ade6ed92a7ff",
+  "lastOpenFiles": [
+    "ISYN/Wyk/Wyk_1_wstep",
+    "MGR/Artykuły.md",
+    "ISYN/Wyk/Wyk_1_wstep/notatka.md",
+    "MOSS/Wyk/wyk_1_ocb/notatka.md",
+    "MGR",
+    "ISYN/Wyk",
+    "ISYN/Lab",
+    "ISYN",
+    "ZAMFP",
+    "MOSS/Untitled",
+    "SCIR/Wyk/wyk_0_org/Notatka.md",
+    "MOSS/Wyk/wyk_1_ocb",
+    "MOSS/Wyk",
+    "MOSS/Lab",
+    "MOSS",
+    "RIM/Wyk/wyk_1_wprowadzenie/notatka.md",
+    "RIM/Wyk/wyk_0_org/Notatka.md",
+    "SSC/Wyk/wyk_0_org/Notatki_0.md",
+    "WZTO/Wyk/wyk_1_teoria_grafow/Notatki_1.md",
+    "WZTO/Wyk/wyk_0_org/Notatki_0.md"
+  ]
+}
