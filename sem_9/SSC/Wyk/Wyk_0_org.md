@@ -1,3 +1,4 @@
+
 # Zaliczenie:
 - 2 kolosy - 2 * 25
 - 4 laby - 4 * 10
