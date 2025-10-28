@@ -18,4 +18,5 @@ Filtr RC przesuwa fazę:
 Ograniczenia pll:
 - VCO $f_{min},\ f_{max}$
 - REF $f_{min},\ f_{max}$
-- 
+
+
