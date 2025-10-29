@@ -13,15 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem_9/RIM/Wyk/0_org.md",
+                "file": "sem_9/MOSS/Wyk/4_analiza_OP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_org"
+              "title": "4_analiza_OP"
+            }
+          },
+          {
+            "id": "6600213a9070e529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem_9/ISYN/Wyk/3_ciekawoski.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3_ciekawoski"
+            }
+          },
+          {
+            "id": "438d2cfc8f976764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem_9/MOSS/Projekt/cos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cos"
+            }
+          },
+          {
+            "id": "3d7d9b6af55e3037",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem_9/MOSS/Projekt/Projekty2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Projekty2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,18 +210,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f84ade6ed92a7ff",
+  "active": "6600213a9070e529",
   "lastOpenFiles": [
-    "sem_9/RIM/Wyk/RIM_W01.pdf",
-    "sem_9/RIM/Wyk/RIM_W02.pdf",
-    "sem_9/RIM/Wyk/RIM_W03.pdf",
-    "sem_9/RIM/Wyk/RIM_W04.pdf",
-    "sem_9/RIM/Wyk/RIM_W00.pdf",
-    "sem_9/RIM/Wyk/3_mnożenie_macierzy.md",
-    "sem_9/RIM/Lab/fraktale.pdf",
-    "sem_9/RIM/Lab/lab_RIM_skrypt.pdf",
-    "sem_9/RIM/Wyk/4_.md",
+    "sem_9/ISYN/Wyk/1_wstep.md",
+    "sem_9/ISYN/Wyk/3_ciekawoski.md",
+    "sem_9/MOSS/Wyk/moss3.pdf",
+    "sem_9/MOSS/Projekt/Projekty2.pdf",
+    "sem_9/MOSS/Wyk/4_analiza_OP.md",
+    "sem_9/MOSS/Projekt/cos.md",
+    "sem_9/WZTO/Lab/irl/wzto_L02.pdf",
+    "sem_9/WZTO/Lab/irl/wzto_L03.pdf",
+    "sem_9/WZTO/Lab/irl/wzto_L01.pdf",
+    "sem_9/WZTO/Lab/irl",
+    "sem_9/WZTO/Lab/Nowy folder",
+    "sem_9/MOSS/MOSSLIB/poj.m",
+    "sem_9/MOSS/MOSSLIB/NRSolver_F.m",
+    "sem_9/MOSS/MOSSLIB/NRSolver.m",
+    "sem_9/MOSS/Wyk/3_AC_nielin_mal.md",
+    "sem_9/MOSS/Wyk/2_analiza_AC.md",
     "sem_9/RIM/Wyk/0_org.md",
+    "sem_9/RIM/Wyk/3_mnożenie_macierzy.md",
+    "sem_9/RIM/Wyk/4_.md",
     "sem_9/RIM/Wyk/1_wprowadzenie.md",
     "sem_9/RIM/Wyk/2_CUDA_wstep.md",
     "sem_9/SSC/Wyk/4_niestalosc_f.md",
@@ -188,15 +238,8 @@
     "sem_9/SSC/Wyk/2_generator.md",
     "sem_9/SSC/Wyk/3_pll.md",
     "sem_9/WZTO/Wyk/wyk_4_zyrator/zyrator i fourier.md",
-    "sem_9/WZTO/Lab/WZTO_L04.pdf",
-    "sem_9/MOSS/Projekt/cos.md",
-    "sem_9/WZTO/Wyk/wyk_4_zyrator/WZTO_W04.pdf",
-    "sem_9/WZTO/Wyk/wyk_4_zyrator",
-    "sem_9/WZTO/Wyk/Wyk_2_obwodowa_wezlowa/WZTO_W02.pdf",
-    "sem_9/MOSS/Wyk/Wyk_3_AC_nielin_mal.md",
     "sem_9/MOSS/Wyk/Wy.md",
-    "sem_9/MOSS/Wyk/Wyk_1_ocb.md",
-    "sem_9/MOSS/Wyk/Wyk_2_analiza_AC.md",
+    "sem_9/MOSS/Wyk/1_ocb.md",
     "sem_9/WZTO/Wyk/wyk_3_/notka.md",
     "sem_9/WZTO/Wyk/wyk_3_/tworzenie_Yn.jpg",
     "sem_9/WZTO/Wyk/Wyk_2_obwodowa_wezlowa/notka.md",
@@ -205,8 +248,6 @@
     "MOSS/Wyk/wyk_1_ocb/notatka.md",
     "SCIR/Wyk/wyk_0_org/Notatka.md",
     "RIM/Wyk/wyk_1_wprowadzenie/notatka.md",
-    "RIM/Wyk/wyk_0_org/Notatka.md",
-    "SSC/Wyk/wyk_0_org/Notatki_0.md",
-    "WZTO/Wyk/wyk_1_teoria_grafow/Notatki_1.md"
+    "RIM/Wyk/wyk_0_org/Notatka.md"
   ]
 }
